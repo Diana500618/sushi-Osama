@@ -1,0 +1,493 @@
+<html>
+    <head>
+        <title>Osama sushi</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+            <section id="ГОЛОВНА">
+        <header>
+            <img class="f" src="https://osama.com.ua/wp-content/uploads/2022/10/xlogo2.png.pagespeed.ic.4zmc_-7Jh5.png">
+            <h1 class="kf">Osama sushi</h1>
+            <h2 class="df">Доставка в Славуті</h2>
+        </header>
+        <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+        </nav>
+        </section>
+        <main>
+            
+            <section id="ДРАКОНИ">
+            <h1 class="dragon">ДРАКОНИ</h1>
+            </section>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8408-scaled-1-300x300.jpg.pagespeed.ic.OgooHd6qsZ.webp">
+                <h1 class="o">Дракон воняний</h1>
+                <p class="iu">198,00 грн.</p>
+                <p class="v">270 г.</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, тигрова креветка, огірок, лосось, філе, тобіко(зверху), сир філа</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8331-scaled-1-300x300.jpg.pagespeed.ic.tD5u0xZ-Gp.webp">
+                <h1 class="o">Дракон зелений</h1>
+                <p class="iu">159,00 грн.</p>
+                <p class="v">275 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, сир філа, вугор, ікра тобіко, авокадо, унагі соус, кунжут, огірок</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8320-300x300.jpg.pagespeed.ic.Znyd1z5MEK.webp">
+                <h1 class="o">Дракон золотий</h1>
+                <p class="iu">173,00 грн.</p>
+                <p class="v">255 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, огірок, вугор, тобіко, сир філа, тигрова креветка</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/DSC_8325-300x300.jpg">
+                <h1 class="o">Дракон червоний</h1>
+                <p class="iu">166,00 грн.</p>
+                <p class="v">290 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, огірок, тигрова креветка, сир філа, авокадо, тунець, унагі соус, ікра тобіко</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/DSC_8327-300x300.jpg">
+                <h1 class="o">Дракон чорний</h1>
+                <p class="iu">199,00 грн.</p>
+                <p class="v">285 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, ікра тобіко, авокадо, сир філа, лосось сирий, вугор, унагі соус, кунжут</p>
+            </article>
+            </section>
+            <section id="КАЛІФОРНІЯ">
+            <h1 class="dragon">КАЛІФОРНІЯ</h1>
+            </section>
+            <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8414-300x300.jpg.pagespeed.ic._isjpiy5_v.webp">
+                <h1 class="o">Каліфорнія з копченим лососем</h1>
+                <p class="iu">114,00 грн.</p>
+                <p class="v">265 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, копчений лосось, огірок, авокадо, сир філа, кунжут</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8440-300x300.jpg.pagespeed.ic.naRW52HDJj.webp">
+                <h1 class="o">Каліфорнія з лососем</h1>
+                <p class="iu">159,00 грн.</p>
+                <p class="v">255 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, тобіко, лосось, сир Філадельфія, огірок</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8412-scaled-1-300x300.jpg.pagespeed.ic.siCRpaRqBH.webp">
+                <h1 class="o">Каліфорнія з лососем в ікрі</h1>
+                <p class="iu">154,00 грн.</p>
+                <p class="v">255 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, огірок, авокадо, тобіко (зверху), лосось філе, Японський м.</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8417-300x300.jpg.pagespeed.ic.xcKVzicDiB.webp">
+                <h1 class="o">Каліфорнія з лососем в кунжуті</h1>
+                <p class="iu">108,00 грн.</p>
+                <p class="v">255 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, лосось філе, авокадо, огірок, Японський м., кунжут</p>
+            </article>
+            </section>
+            <section id="МАКІ">
+            <h1 class="dragon">МАКІ</h1>
+            </section>
+            <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8470-300x300.jpg.pagespeed.ic.1tQo_euW9K.webp">
+                <h1 class="o">Макі з авокадо</h1>
+                <p class="iu">47,00 грн.</p>
+                <p class="v">115 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, авокадо</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/DSC_8472-300x300.jpg">
+                <h1 class="o">Макі з вугрем</h1>
+                <p class="iu">65,00 грн.</p>
+                <p class="v">125 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, вугор, кунжут, унагі соус</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/DSC_8453-300x300.jpg">
+                <h1 class="o">Макі з копченим лососем</h1>
+                <p class="iu">62,00 грн.</p>
+                <p class="v">120 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, Х/К</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/DSC_8453-300x300.jpg">
+                <h1 class="o">Макі з лососем</h1>
+                <p class="iu">59,00 грн.</p>
+                <p class="v">120 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, лосось філе</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8454-scaled-1-300x300.jpg.pagespeed.ic.1ZIVP0BPpY.webp">
+                <h1 class="o">Макі з манго</h1>
+                <p class="iu">52,00 грн.</p>
+                <p class="v">115 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, манго</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8456-scaled-1-300x300.jpg.pagespeed.ic.x2Buy1h3p-.webp">
+                <h1 class="o">Макі з огірком</h1>
+                <p class="iu">39,00 грн.</p>
+                <p class="v">115 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, огірок, кунжут</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/DSC_8471-300x300.jpg">
+                <h1 class="o">Макі з тунцем</h1>
+                <p class="iu">58,00 грн.</p>
+                <p class="v">123 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, тунець, унагі соус</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8451-300x300.jpg.pagespeed.ic.7MRUPIrOfr.webp">
+                <h1 class="o">Макі філа</h1>
+                <p class="iu">42,00 грн.</p>
+                <p class="v">115 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, сир філа</p>
+            </article>
+            </section>
+            <section id="НАПОЇ">
+            <h1 class="dragon">НАПОЇ</h1>
+            </section>
+            <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/2023-03-22-00.08.13-300x300.jpg">
+                <h1 class="o">Вода негазована та сильногазована</h1>
+                <p class="iu">25,00 грн.</p>
+                <p class="v">0.5 л</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/x2023-03-22-00.07.32-300x300.jpg.pagespeed.ic.QrXvJLP-pa.webp">
+                <h1 class="o">Кола 0.5 л</h1>
+                <p class="iu">35,00 грн.</p>
+                <p class="v">0.5 л</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/x2023-03-22-00.07.32-300x300.jpg.pagespeed.ic.QrXvJLP-pa.webp">
+                <h1 class="o">Кола 0.75 л</h1>
+                <p class="iu">45,00 грн.</p>
+                <p class="v">0.75 л</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/2023-03-22-00.08.19-300x300.jpg">
+                <h1 class="o">Сік"Rich"</h1>
+                <p class="iu">75,00 грн.</p>
+                <p class="v">1 л</p>
+            </article>
+            </section>
+            <section id="НІГІРІ">
+            <h1 class="dragon">НІГІРІ</h1>
+            </section>
+            <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8546-scaled-1-300x300.jpg.pagespeed.ic.zflhAePhwN.webp">
+                <h1 class="o">Нігірі з копченим лососем</h1>
+                <p class="iu">42,00 грн.</p>
+                <p class="v">52 г</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8547-300x300.jpg.pagespeed.ic.ieJ88UWlHD.webp">
+                <h1 class="o">Нігірі з лососем</h1>
+                <p class="iu">36,00 грн.</p>
+                <p class="v">52 г</p>
+            </article>            
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8548-scaled-1-300x300.jpg.pagespeed.ic.ml7PHsE2_d.webp">
+                <h1 class="o">Нігірі з запеченим лососем</h1>
+                <p class="iu">39,00 грн.</p>
+                <p class="v">52 г</p>
+            </article>
+            </section>
+            <section id="shef">
+            <h1 class="dragon">ВІД ШЕФА</h1>
+            </section>
+            <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8486-scaled-1-300x300.jpg.pagespeed.ic.gXHwV-hp-a.webp">
+                <h1 class="o">Авокадо Рол з лососем</h1>
+                <p class="iu">142,00 грн.</p>
+                <p class="v">300 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, авокадо, лосось, огірок, унагі соуc, сир філа</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2024/04/IMG_8826-scaled-1-300x300.jpeg">
+                <h1 class="o">Кібото рол</h1>
+                <p class="iu">198,00 грн.</p>
+                <p class="v">300 г</p>
+                <p class="u"><span class="s">Склад:</span><br>рис, норі, креветка, лосось сирий, огірок, тобіко, сир філадельфія, унагі</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2024/04/xIMG_8830-scaled-1-300x300.jpeg.pagespeed.ic.jQlXCGFx-7.webp">
+                <h1 class="o">Кінг рол</h1>
+                <p class="iu">234,00 грн.</p>
+                <p class="v">290 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, лосось, сир філадельфія, креветка, Ллосось копчений, авокадо</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2024/04/IMG_8823-scaled-1-300x300.jpeg">
+                <h1 class="o">Хоши рол</h1>
+                <p class="iu">198,00 грн.</p>
+                <p class="v">310 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, сир філадельфія, тобіко, тунець, авокадо, манго, кунжут чорний</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8496-scaled-1-300x300.jpg.pagespeed.ic.u0nzcXscM3.webp">
+                <h1 class="o">Спайсі рол</h1>
+                <p class="iu">186,00 грн.</p>
+                <p class="v">300 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, сир філа, лосось гриль, огірок, шрірачі соус, унагі, вугор, кунжут</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xDSC_8523-300x300.jpg.pagespeed.ic.LAy6EyH6Kw.webp">
+                <h1 class="o">Фудзі</h1>
+                <p class="iu">196,00 грн.</p>
+                <p class="v">300 г</p>
+                <p class="u"><span class="s">Склад:</span><br>норі, рис, сир філа, огірок, вугор, спайсі, кунжут, унагі</p>
+            </article>
+            </section>
+            <section id="СЕТИ">
+            <h1 class="dragon">СЕТИ</h1>
+            </section>
+           <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-10-300x300.png">
+                <h1 class="o">Сет "Дракони"</h1>
+                <p class="iu">817,00 грн.</p>
+                <p class="v">1375 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Зелений дракон, Золотий дракон, Вогняний дракон, Чорний дракон, Червоний дракон</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-5-300x300.png">
+                <h1 class="o">Сет "Осама"</h1>
+                <p class="iu">607,00 грн.</p>
+                <p class="v">1180 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Рол Гриль голд, Спайсі рол, Філадельфія з лососем, Авокадо рол з лососем</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-4-300x300.png">
+                <h1 class="o">Сет "Токіо"</h1>
+                <p class="iu">534,00 грн.</p>
+                <p class="v">1090 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Філа з лососесм ½, Філа з тунцем ½, Філа з копч.лососем ½, Філа з вугрем ½, Філа з тигровою креветкою ½, Філа сезам ½, Рол хіко мак</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-7-300x300.png.pagespeed.ce.ipoKM5Gtwh.png">
+                <h1 class="o">Сет "Філадельфія"(повна)</h1>
+                <p class="iu">728,00 грн.</p>
+                <p class="v">1375 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Філадельфія з лососем, Філадельфія з Х/К, Філадельфія з тунцем, Філадельфія з тигровою креветкою, Філадельфія з вугрем</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xBez_nazvy_1_Montazhna_oblast_1_kopiya-1-300x300.jpg.pagespeed.ic.yIqKRaZ776.webp">
+                <h1 class="o">Сет "Сезам"</h1>
+                <p class="iu">422,00 грн.</p>
+                <p class="v">1040 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Хіко Мак, Чіз рол, Каліфорнія зі смаженим лососем, Каліфорнія з копченим лососем</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-2-300x300.png">
+                <h1 class="o">Чіз Сет</h1>
+                <p class="iu">468,00 грн.</p>
+                <p class="v">960 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Макі Філа, Філадельфія класік з лососем, Чіз Рол, Блек Чіз</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-300x300.png">
+                <h1 class="o">Сет FUSION</h1>
+                <p class="iu">449,00грн.</p>
+                <p class="v">1045 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Філадельфія з лососем, Філадельфія з тунцем, Філадельфія сезам, Каліфорнія з лососем в кунжуті</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2020/11/xBez-nazvy-1_Montazhna-oblast-1-1-300x300.jpg.pagespeed.ic.AGQAtNuQO1.webp">
+                <h1 class="o">Сет "Футомакі"</h1>
+                <p class="iu">484,00 грн.</p>
+                <p class="v">1170 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Футо з куркою, Футо зі смаженим тунцем, Футо асорті, Футо з лососем</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2022/11/Bez-nazvy-2_Montazhna-oblast-1-kopiya-6-300x300.png">
+                <h1 class="o">Сет від Шефа 50/50</h1>
+                <p class="iu">347,00 грн.</p>
+                <p class="v">725 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Рол гриль голд 1/2, Футомак з смаженим тунцем 1/2, Авокадо рол з печеним лососем та манго 1/2, Філадельфія гриль з манго 1/2, Чіз рол 1/2</p>
+            </article>
+            </section>
+            <section  id="ВЕГА">
+            <h1 class="dragon">ВЕГА РОЛИ</h1>
+            </section>
+            <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+            <section class="lk">
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2023/03/xDSC_8554-300x300.jpg.pagespeed.ic.MRpM0XRfU3.webp">
+                <h1 class="o">Рол Вегатеріанський</h1>
+                <p class="iu">164,00 грн.</p>
+                <p class="v">295 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Норі, авокадо, лосось, манго, огірок, кнжут, соус унагі</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2023/03/xDSC_8552-300x300.jpg.pagespeed.ic.Lw44LjVxud.webp">
+                <h1 class="o">Рол Техас</h1>
+                <p class="iu">112,00 грн.</p>
+                <p class="v">235 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Соєвий папір, рис, авокадо, манго, листя салату, кунжут білий, соус унагі$0</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2023/03/xDSC_8568-300x300.jpg.pagespeed.ic.skmFZsGRhh.webp">
+                <h1 class="o">Рол Тропік</h1>
+                <p class="iu">113,00 грн.</p>
+                <p class="v">245 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Норі, рис, сир філадельфія, манго, тостовий сир, апельсин</p>
+            </article>
+            <article class="kj">
+                <img class="foto" src="https://osama.com.ua/wp-content/uploads/2023/03/xDSC_8572-300x300.jpg.pagespeed.ic.KfZXH5e7J0.webp">
+                <h1 class="o">Самурай</h1>
+                <p class="iu">135,00 грн.</p>
+                <p class="v">235 г</p>
+                <p class="u"><span class="s">Склад:</span><br>Норі, рис, салат, огірок, ікра тобіко, сурімі</p>
+            </article>
+            </section>
+        </main>
+        <nav>
+            <a class="g" href="#КОНТАКТИ">КОНТАКТИ</a>
+            <a class="g" href="#МАКІ">МАКІ</a>
+            <a class="g" href="#ДРАКОНИ">ДРАКОНИ</a>
+            <a class="g" href="#КАЛІФОРНІЯ">КАЛІФОРНІЯ</a>
+            <a class="g" href="#ГОЛОВНА">ГОЛОВНА</a>
+            <a class="g" href="#НАПОЇ">НАПОЇ</a>
+            <a class="g" href="#НІГІРІ">НІГІРІ</a>
+            <a class="g" href="#shef">ВІД ШЕФА</a>
+            <a class="g" href="#СЕТИ">СЕТИ</a>
+            <a class="g" href="#ВЕГА">ВЕГА РОЛИ</a>
+            </nav>
+        <h1 class="hr">Як зробити замовлення?</h1>
+        
+        <section class="du">
+            <article class="da">
+                <img class="fot" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAC9FBMVEXhGBj////hGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBiCBy6BAAAA+3RSTlMAAAECAwQFBgcICQoLDA0ODxETFBUWFxgZGhscHR4fICEiIyQlJicoKSorLC0uLzAxMjM0NTY3ODk6Ozw9Pj9AQUJDREVGR0lKS0xNTk9QUVJTVFVWV1hZWltc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">
+                <p class="cgh">Обираєте апетитні <br>суші
+на сайті</p>
+                </article>
+                <article class="da">
+                <img class="fot" src="data:image/png;base64,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">
+                <p class="cgh">Оформлюєте замовлення <br>через кошик</p>
+                </article>
+                <article class="da">
+                    <img class="fot" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAACylBMVEXhGBj////hGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBivpjEyAAAA7XRSTlMAAAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJykqKywtLi8wMTM0NTY3ODk6Ozw9PkBBQkNERUZHSElKS0xNTk9QUVJTVFZXWFlaW1xdXl9gY2RlZmdoaWprbG1ub3BxcnN0dXZ3eXp7fH1+f4CBg4SFh4iJiouM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">
+                    <p class="cgh">Обов’язково передзвонить <br>наш менеджер</p>
+                </article>
+                <article class="da">
+                    <img class="fot" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAACvlBMVEXhGBj////hGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBjhGBheXBJUAAAA6XRSTlMAAAECAwQFBgcICQoMDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCkqLC0uLzAxMjM0NTY3ODk6Ozw9Pj9BQkNERUZHSElKS0xNTk9QUVJTVFVXWFpbXF1eX2BhY2RlZmdoaWprbG1ub3FydHV2d3h6fH1+gIKDhIaHiImLjI2Oj5CRkpOUlZaXmpydnp+goaKjpKWmp6ipqqusra6vsrO2t7i5uru8vb6/wMHCw8TFxsfIycrLzM3O0NHS09TV1tfY2drb3N3e3+Dh4+Tl5ufo6err7O3u7/Dx8vP09fb3+Pn6+/z9/jnONQ0AAAT0SURBVGje7djpX1RVHMfxX2EubAMahqKmQIBSZKCiVLapFbZoIblECWY1JmalWbhbam65IlS22GLhRhrkrsGIgpiCyRKMG0jy+S96MAyznRnuQPig1/0+4tzXvffN3HPO75x75Y7bENERHdERHdERHdERHdGRFkQsmXzpWk21t6lpODlc3ESBvEp7M1Q7crLdyAbNSLcKODZv+QrvsjSrAvK8QlaJ9zngDdK1Aj5rB1IABT0jYiyJDes0xD5FybcBgZzbgbCsU5CSaW8ajUaj0fhW2nqABzsD2WXXHAPM7QzkWPzjYywZlxBfC7md3SfNzbCzw0jsiRNDPHc8OzqK3FcL37aBjO8gEm0GtjshR6JHJFmSEGeCQx0cwtFXgbP+Tsgvds210NS3Q0hUPVDs79zxu+2aLwEveocEdHXojzrA5C+ekGhgoVfIfI71tLUi/wbO9hKPiJyCAm+QkOtwLqT1f6wDSgKlDWQVNIZ680tMQKnB8ndEvdJwQdKAsd4g4bXA+ZDWPj9jUM54+9El9za31mGNHR9RBZT3shpB6rJyeeuXO6z5IrseLqf18GYIR9UDpyWwGigN1raeADTM8GaehFcBR04BJcGiHYGt7nYrqskYUW+5qCzIbRW+drKo2C5Ff5gBslRIpZsZP7AaoMSNIYWqLdFcgBj1DnK+8jaDatTjypJc+Nz16GvAEgUy/HiOr/o+MQd/DHVbzwb9uqu345HV5cfzf74F+1W7+v8oqdauP+2CdDUE+voFBthi6K7xpj4+ju2ZVqTUGRld32x2TANzNBkjbtbFuiDfrzTBGWdENdob7tGC/ABfuyDRsliBfKNAKn21IIVOBVKmAXPkUwViWLBxlWPWrR2idUvkOE/6NwE3mhRI++OCyOKWJ+GEDHg4ISHemqSBLSf7PzRqgG3pTUpwSVKUAxI0bJTl9SRLhUx06ozXRUQm7b4GlKywXPeeugq+b0MyDtwETi0IFJGoWWl7nZFdTpcWioQdbm293bJyq3LaisSdtx5qnGB9Zo7IPJcXjAca7ZprRWSzGtnWsjI+6fTzRJa49Mm4zIwpM+tg7/PpGRmzX7CsUXz3xuRFfwK8K+KTMnuGS2an+IgUwJaARqAxd/rUldUAU5WIiMhdF2xvv1sAU38REfkQINbz2+9X24D8IOsOkhqDKCejSPdK2PPc9PT09NR3bkC5v0iyMUwkE9iZnO4maamlcOU65Iv4pMzsKbIG2DT+2Z/U86TM4WlPEr8CYIrWLxWPyIAyaH5K/P+yHipTIIvtrykVyQFgsGRqMQ6K7AG40kuWWY8Vq2a8/QjKE7kIwHTHkeMu6ySkCYAJtlL/sbKs9Ht0ZGJiYnzUEdgnUoplpDwDZPRLdJu4oedgsxiuAvC0zAJeDk8cPVg81q7tUO0niwCqgmQhEOOxfO0Hk8gmgGKRjWAOcvcpyhYjkCmyHMrixLcCijzXyAXAROmSDUf7SeQt2CNtI8G1QIJI78guIluBeZ6R+4GqPiJ9wu8U2Qe8ogGRj4B/UkVE7s4DLhnaKPcbAPNYEZHwo8AJ0YLIbwAXNq/eD0ByW2tKjzMAZ9ev+R2AYdqQbofshue0tleuvhftzn9MtCEin7ROy2Fa1ke/XOv5h8NFMyKhHxRWmcuyn9C6DEdkHa0xm9aPdPflTv+MriM6oiM6oiM68j9D/gVJxdoj2zqIBwAAAABJRU5ErkJggg==">
+                    <p class="cgh">Очікуєте доставку <br>та смакуєте</p>
+                    <img class="fo" src="https://osama.com.ua/wp-content/uploads/2024/04/IMG_8826-scaled-1.jpeg">
+                </article>
+        </section>
+        <h1 class="kart">Тут нас можна знайти!</h1>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2548.391566651838!2d26.8733088!3d50.303284399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472ef0d5bf855555%3A0xa6034aa4527775c6!2z0LLRg9C70LjRhtGPINCc0LjRgNGDLCAxMDLQsCwg0KHQu9Cw0LLRg9GC0LAsINCl0LzQtdC70YzQvdC40YbRjNC60LAg0L7QsdC70LDRgdGC0YwsIDMwMDAy!5e0!3m2!1suk!2sua!4v1730834995675!5m2!1suk!2sua" width="1120" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <footer class="fut">
+            <section id="КОНТАКТИ">
+            <p class="nashi"><b>Наші соцмережі!</b></p>
+            <a class="social" href="https://www.facebook.com/profile.php?id=100075801167532"><img src="https://cdn-icons-png.freepik.com/256/5968/5968764.png?ga=GA1.1.22342287.1730658057&semt=ais_hybrid" width="30px" height="30px"></a>
+            <a class="social" href=""><img src="https://cdn-icons-png.freepik.com/256/15707/15707749.png?ga=GA1.1.22342287.1730658057&semt=ais_hybrid" width="30px" height="30px"></a>
+            <p class="nomer">+38 (067) 344-85-21<br>osamasushislavuta@gmail.com</p>
+            </section>
+            
+        </footer>
+    </body>
+</html>

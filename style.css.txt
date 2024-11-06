@@ -1,0 +1,225 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+    width: 1120px;
+}
+
+header{
+    background-color: white;
+}
+
+.f {
+    width: 70px;
+}
+
+.kf {
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    padding: 5px;
+    
+}
+
+.df {
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.lk {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+nav {
+    padding:5px 2px 5px 2px;
+    display: flex;
+    margin: 20px;
+    
+}
+
+.g {
+    border-radius: 40px;
+    font-size: 17px;
+    padding: 2px;
+    opacity: 0.7;
+    color: #660000;
+    background-color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.g:hover {
+    border: 2px dashed white;
+    background-color: #e12b2b;
+    opacity: 1;
+    color: white;
+    box-shadow: 2px 2px 5px 0 red;
+}
+
+.h {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans;
+    color: white;
+}
+
+.uy {
+    background-color: #979797fc;
+    border-top: 6px solid rgb(255, 0, 0);
+}
+
+.j {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans;
+    border-bottom: 6px dashed white;
+    padding-bottom: 30px;
+}
+
+.l {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.y {
+    color: #ffffff;
+    font-size: 19px;
+    padding-bottom: 10px;
+}
+
+span {
+    color: #ff0000;
+    font-family: cursive;
+    background-color: #979797fc;
+}
+
+.rty {
+    position: fixed;
+    top: 240px;
+    right: 10px;
+    background-color: #604a4a;
+    height: 180px;
+    width: 110px;
+    color: white;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 14px;
+}
+
+.fut {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+}
+
+.kj {
+    width: 250px;
+    height: 550px;
+    border: 4px dashed rgb(255, 17, 17);
+    border-radius: 40px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    justify-content: center;
+    
+}
+
+.kj:hover {
+    opacity: 0.9;
+    transition: 0.2s ease-in;
+}
+
+.foto {
+    width: 250px;
+    border-radius: 50px;
+    border-bottom: 4px dashed rgb(92, 8, 8);
+}
+
+.s {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.u {
+    font-size: 15px;
+}
+
+.o {
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.iu {
+    font-size: 20px;
+}
+
+.v {
+    color: #e12b2b;
+    font-size: 15px;
+}
+
+.dragon {
+    font-size: 24px;
+    font-family: cursive;
+    background-color: #000000;
+    border-top: 4px dashed #e12b2b;
+    border-bottom: 4px dashed #e12b2b;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+
+.da {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 19px;
+    font-family: sans;
+}
+
+.hr {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    border: 4px dashed rgb(237, 0, 0);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.kart {
+    font-size: 40px;
+    font-family: cursive;
+    border-top: 6px dashed rgb(255, 0, 0);
+    text-align: center;
+}
+
+.fo {
+    display: block;
+    position: absolute;
+    left: 580px;
+    width: 400px;
+    top: 12750px;
+    border-radius: 40px;
+    height: 420px;
+}
+
+.nashi {
+    font-size: 27px;
+    font-family: cursive;
+    color: #ffffff;
+}
+
+.nomer {
+    font-size: 20px;
+    font-family: cursive;
+    color: #ffffff;
+}
